@@ -1,0 +1,12 @@
+aiohttp==3.9.5
+asyncio==3.4.3
+ccxt==4.3.62
+fastapi==0.109.2
+pydantic==2.6.0
+python-engineio==4.8.2
+gunicorn==21.2.0
+pydantic-settings==2.1.0
+SQLAlchemy==2.0.25
+uvicorn==0.27.0.post1
+psycopg2-binary==2.9.9
+alembic==1.12.0
